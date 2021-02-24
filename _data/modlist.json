@@ -24,6 +24,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Nif",
+    "name": "ToolBox",
+    "steamId": "2016186459",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Vaniat",
     "name": "Polarisbloc - Core LAB"
   },
@@ -56,12 +62,6 @@
   {
     "author": "EdB",
     "name": "EdB Prepare Carefully"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.2.3.2"
   },
   {
     "author": "Smash Phil | Dr_Zhivago",
@@ -132,10 +132,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Vintage Fruitcake",
-    "name": "Sparkling Worlds CE Patch [1.0, 1.1, 1.2]"
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul (Continued)"
   },
@@ -176,12 +172,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Torann",
-    "name": "Rim War",
-    "steamId": "2222935097",
-    "version": "0.9.8.1"
-  },
-  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
@@ -204,6 +194,10 @@
   {
     "author": "dhultgren",
     "name": "Smarter Construction"
+  },
+  {
+    "author": "Nif",
+    "name": "Architect Expanded - Fences"
   },
   {
     "author": "Mlie",
@@ -248,6 +242,10 @@
     "name": "[KV] RimFridge",
     "steamId": "1180721235",
     "version": "1.2.1.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Cannibal and Insect Meals"
   },
   {
     "author": "Little White Mouse",
@@ -350,6 +348,18 @@
   {
     "author": "NetzachSloth",
     "name": "A RimWorld of Magic - Dread Shadow Class"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, Alastair",
+    "name": "[HLX] ReGrowth - Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -544,10 +554,38 @@
     "name": "Rimworld: Spartan Foundry"
   },
   {
+    "author": "Smash Phil",
+    "name": "Boats",
+    "steamId": "1931133197",
+    "version": "1.0.0"
+  },
+  {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan"
   },
   {
     "author": "Spino",
@@ -558,6 +596,16 @@
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "The GiantRace"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "1631756268",
+    "version": "1.2.3.2"
   },
   {
     "author": "Harkon",
@@ -582,10 +630,6 @@
   {
     "author": "Tittymcswaggy",
     "name": "TMC Armory - Sidearms #1"
-  },
-  {
-    "author": "Tittymcswaggy",
-    "name": "TMC All In One CE Patch"
   },
   {
     "author": "Tittymcswaggy",
@@ -698,6 +742,10 @@
     "version": "1.0.0"
   },
   {
+    "author": "Roolo",
+    "name": "RunAndGun"
+  },
+  {
     "author": "notfood",
     "name": "Infused",
     "steamId": "731287727",
@@ -756,10 +804,6 @@
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
-  },
-  {
-    "author": "Roolo",
-    "name": "RunAndGun"
   },
   {
     "author": "Weilbyte",
@@ -879,6 +923,12 @@
   },
   {
     "author": "Haplo",
+    "name": "Miscellaneous 'CORE'",
+    "steamId": "704181221",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Haplo",
     "name": "Misc. Robots"
   },
   {
@@ -904,6 +954,12 @@
   {
     "author": "Cobler",
     "name": "Call of Duty: Wonder Weapons"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.8.1670"
   },
   {
     "author": "avilmask",
@@ -956,6 +1012,10 @@
     "version": "3.21.303"
   },
   {
+    "author": "WexMan",
+    "name": "Advanced Hydroponics"
+  },
+  {
     "author": "aRandomKiwi",
     "name": "Hunt for Me",
     "steamId": "1593245720",
@@ -980,5 +1040,9 @@
   {
     "author": "zyxabacab",
     "name": "No Sympathy for Prisoners"
+  },
+  {
+    "author": "Mlie",
+    "name": "Run and Hide (Continued)"
   }
 ]
