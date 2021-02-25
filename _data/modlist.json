@@ -60,6 +60,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Killface",
+    "name": "Facial Stuff 1.1",
+    "steamId": "818322128",
+    "version": "1.1"
+  },
+  {
+    "author": "Latki(vee)",
+    "name": "More Kawai For Facial Stuff"
+  },
+  {
     "author": "EdB",
     "name": "EdB Prepare Carefully"
   },
@@ -326,28 +336,6 @@
   {
     "author": "AKreedz, Chicken Plucker",
     "name": "[CP] Get to the Chopper!"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.9"
-  },
-  {
-    "author": "NetzachSloth",
-    "name": "A RimWorld of Magic - Shadow Wight Class"
-  },
-  {
-    "author": "NetzachSloth",
-    "name": "A RimWorld of Magic - Dread Necromancer Class"
-  },
-  {
-    "author": "NetzachSloth",
-    "name": "A RimWorld of Magic - Wight Class"
-  },
-  {
-    "author": "NetzachSloth",
-    "name": "A RimWorld of Magic - Dread Shadow Class"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
@@ -826,6 +814,10 @@
     "name": "[JDS] Simple Storage"
   },
   {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness"
+  },
+  {
     "author": "Chicken Plucker",
     "name": "[CP] U.S. Military Kit"
   },
@@ -908,12 +900,6 @@
   {
     "author": "Oreno",
     "name": "VPE - RimCuisine 2 Core"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Puppeteer",
-    "steamId": "2057192142",
-    "version": "1.5.2.0"
   },
   {
     "author": "Troopersmith1",
@@ -1044,5 +1030,89 @@
   {
     "author": "Mlie",
     "name": "Run and Hide (Continued)"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.5.2.0"
+  },
+  {
+    "author": "onceupon2635",
+    "name": "Animal Namer",
+    "steamId": "2229408147",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "notfood",
+    "name": "FrameRateControl",
+    "steamId": "1591142767",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harvest Yield",
+    "steamId": "1461790308",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack"
+  },
+  {
+    "author": "Ivelischt",
+    "name": "Hay doesn't need Cooling!"
+  },
+  {
+    "author": "Mlie",
+    "name": "I Clearly Have Enough! (Continued)"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles"
+  },
+  {
+    "author": "Falconne",
+    "name": "Labels on Floor"
+  },
+  {
+    "author": "Troopersmith1 - KongMD - Revolus",
+    "name": "Life Support Continued [1.1][1.2]"
+  },
+  {
+    "author": "4loris4",
+    "name": "More Linkables"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] More Slaves",
+    "steamId": "2021510577",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.4"
+  },
+  {
+    "author": "telardo",
+    "name": "Numbers Trait AddOn",
+    "steamId": "2068856562",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Ore Yields (Continued)",
+    "steamId": "2374350066",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualitySurgeon"
+  },
+  {
+    "author": "FrankWest21",
+    "name": "Joe Biden Storyteller"
   }
 ]
