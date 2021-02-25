@@ -8,7 +8,7 @@
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
     "QuantityLimit": -1,
-    "Weight": 1.0
+    "Weight": 1.0 
   },
   "Wort": {
     "HasQuantityLimit": false,
