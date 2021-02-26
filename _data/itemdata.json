@@ -8,7 +8,7 @@
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
     "QuantityLimit": -1,
-    "Weight": 1.0 
+    "Weight": 1.0
   },
   "Wort": {
     "HasQuantityLimit": false,
@@ -27587,25 +27587,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TMC_Throwable_HGR": {
+  "TMC_Throwable_HGRCE": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "TMC Armory - Support Weapons #1",
+    "Mod": "TMC All In One CE Patch",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TMC_Throwable_Zarya": {
+  "TMC_Throwable_ZaryaNade": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "TMC Armory - Support Weapons #1",
+    "Mod": "TMC All In One CE Patch",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
