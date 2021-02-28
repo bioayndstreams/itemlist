@@ -389,12 +389,7 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "immortality",
-		"price": 50000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 78
 }
